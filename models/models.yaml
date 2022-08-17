@@ -1,0 +1,70 @@
+benchmarks:
+  - name: The jolly 3D printing torture-test
+    link: https://www.thingiverse.com/thing:763622
+  - name: XYZ 20mm Calibration Cube
+    link: https://www.thingiverse.com/thing:1278865
+calibration:
+  - name: Bed Level Correction Calibration Squares
+    link: https://www.thingiverse.com/thing:1776031
+games:
+  chess:
+    - name: Puzzle Chess Board
+      link: https://www.thingiverse.com/thing:1505544
+    - name: Spiral Chess Set
+      link: https://www.thingiverse.com/thing:470700
+gopro:
+  - name: GoPro Base
+    link: https://www.thingiverse.com/thing:53438
+keychains:
+  - name: lion keychain
+    link: https://www.thingiverse.com/thing:1678287
+  - name: Baby Groot Keychain
+    link: https://www.thingiverse.com/thing:2309451
+  - name: Citroen Keychain
+    link: https://www.thingiverse.com/thing:3114666
+  - name: fiat keychain
+    link: https://www.thingiverse.com/thing:1752645
+  - name: High heel sandal keychain
+    link: https://www.thingiverse.com/thing:452717
+  - name: Kia Logo Keychain
+    link: https://www.thingiverse.com/thing:1371603
+  - name: Logo Renault keychain
+    link: https://www.thingiverse.com/thing:443870
+  - name: Opel logo keychain
+    link: https://www.thingiverse.com/thing:2429867
+  - name: Owl Keychain.
+    link: https://www.thingiverse.com/thing:693334
+  - name: Peugeot Keychain
+    link: https://www.thingiverse.com/thing:3196875
+  - name: Sherlock Holmes Keychain
+    link: https://www.thingiverse.com/thing:3082652
+  - name: Superhero Keychains
+    link: https://www.thingiverse.com/thing:1596833
+  - name: wonder woman keychain
+    link: https://www.thingiverse.com/thing:2710295
+  - name: Wonder Woman Keychain
+    link: https://www.thingiverse.com/thing:2405812
+mods:
+  - name: Snap-on Filament Filter/Oiler
+    link: https://www.thingiverse.com/thing:1692395
+  - name: Ender 3 Side Spool Converter Bracket
+    link: https://www.thingiverse.com/thing:3303879
+  - name: Ender 3 Filament runout sensor and guide with bearing optimized for 1.75mm
+    link: https://www.thingiverse.com/thing:4813860
+  - name: Creality CR-10 Filament Guide
+    link: https://www.thingiverse.com/thing:2186253
+  - name: Compact Camera Tripod - foldable
+    link: https://www.thingiverse.com/thing:1460181
+other:
+  - name: Headphone Stand
+    link: https://www.thingiverse.com/thing:2050885
+  - name: color Palette,kleine Farbpalette
+    link: https://www.thingiverse.com/thing:4731947
+planters:
+  - name: Baby Groot Air Plant Planter
+    link: https://www.thingiverse.com/thing:2610529
+  - name: Low Poly Planter - Wide Top
+    link: https://www.thingiverse.com/thing:2999036
+vases:
+  - name: Spiral Vase
+    link: https://www.thingiverse.com/thing:1463359
